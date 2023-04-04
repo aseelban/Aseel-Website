@@ -170,7 +170,7 @@ const About = () => {
               <span>
                 <i className="devicon-docker-plain" />
               </span>
-              <h4>cPanel/Handling website migration</h4>
+              <h4>cPanel/Website migration</h4>
             </div>
             {/* SKILL ITEM ENDS */}
           </div>

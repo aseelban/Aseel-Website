@@ -1,22 +1,18 @@
 const Home = () => {
   return (
     <section className="home image" id="home">
-      <div>
+     <div>
         <div className="position-relative">
           <h1>
             <span>
               <span className="animated-layer">
-                Hello<span>.</span>
+                Hello<span>.</span> <br /> I am Aseel
               </span>
             </span>
             <span className="position-relative">
-              <span className="animated-layer">I am</span>
-              <span className="intro animated-layer">
-                A Senior Front-end Developer with 5 years of experience
+              <span className="home-dec animated-layer">
+                A Seinor Front-end Developer with 5 years experience
               </span>
-            </span>
-            <span>
-              <span className="animated-layer">Aseel</span>
             </span>
           </h1>
         </div>

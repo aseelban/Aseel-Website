@@ -19,9 +19,10 @@ SwiperCore.use([
   Virtual,
 ]);
 
-export const salimovSlider = {
+export const mainSlider = {
   portfolio: {
     loop: true,
+    autoPlay: true,
     navigation: {
       nextEl: ".next-item",
       prevEl: ".prev-item",
