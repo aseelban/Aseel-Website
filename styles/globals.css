@@ -79,3 +79,26 @@
 .home > div h1 > span:first-child span span, .skills > div > div span i, .about .infos ul li > span > span:before, .facts > div > div > div h3, .about h2 > span:first-child, .testimonials .quote-container > div:before, .contact .boxes > div > div > i, .timeline ol li > div > div > h4, .copyright ul li a:hover, .testimonials .quote-container > div p span.person, header .header-inner .menu ul li span.active, header .header-inner .menu ul li span:hover, .contact .boxes .social li a:hover, .copyright > div > span a, .mCSB_dragger_bar:after, header .header-inner .mail p span, .main-post .meta i {
   color: #00a5c7;
 }
+
+.home-dec {
+  line-height: 1.7 !important;
+}
+
+
+@media (max-width: 767px) {
+  /* About component */
+
+.about h2 {
+    font-size: 36px;
+    line-height: 46px;
+    text-align: left;
+}
+.about .skills > div > div:not(:first-child) {
+  margin-left: 0;
+  width: 100%;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+}
