@@ -2,6 +2,7 @@ import { mainSlider } from "@/src/sliderProps";
 import { Swiper, SwiperSlide } from "swiper/react";
 
 
+
 const Portfolio = () => {
   return (
     <section
@@ -47,12 +48,6 @@ const Portfolio = () => {
                     <i className="fa-regular fa-file-lines" /> Project :
                   </span>
                   <span>Website - Ecommerce</span>
-                </li>
-                <li>
-                  <span>
-                    <i className="fa-solid fa-code-branch" /> Frameworks :
-                  </span>
-                  <span>WordPress/Cloud AWS</span>
                 </li>
               </ul>
             </div>

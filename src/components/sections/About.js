@@ -164,8 +164,6 @@ const About = () => {
               </span>
               <h4>Basic PHP/NodeJS</h4>
             </div>
-            {/* SKILL ITEM ENDS */}
-            {/* SKILL ITEM STARTS */}
             <div className="animated-layer fade-in-up-animation fadeInRight wow">
               <span>
                 <i className="devicon-docker-plain" />
@@ -173,25 +171,25 @@ const About = () => {
               <h4>cPanel/Website migration</h4>
             </div>
             {/* SKILL ITEM ENDS */}
-          </div>
-          <div>
+            </div>
+            <div>
             {/* SKILL ITEM STARTS */}
             <div className="animated-layer fade-in-down-animation fadeInLeft wow">
               <span>
                 <i className="devicon-materialui-plain" />
               </span>
-              <h4>Bootstrap/Material UI</h4>
+              <h4>MUI/Bootstrap</h4>
             </div>
-            {/* SKILL ITEM ENDS */}
-            {/* SKILL ITEM STARTS */}
             <div className="animated-layer fade-in-up-animation fadeInRight wow">
               <span>
                 <i className="devicon-github-original" />
               </span>
-              <h4>Git/GitHub</h4>
+              <h4>GitHub</h4>
             </div>
             {/* SKILL ITEM ENDS */}
-          </div>
+            </div>
+          <div>
+        </div>
         </div>
       </div>
       {/* SKILLS ENDS */}
