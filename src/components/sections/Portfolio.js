@@ -81,7 +81,7 @@ const Portfolio = () => {
                 </li>
               </ul>
             </div>
-            <a href="https://Lumina.sa" target="_blank" className="">
+            <a href="https://lumina.com.sa" target="_blank" className="">
                 preview 
             </a>
           </div>
