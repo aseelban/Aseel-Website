@@ -1,11 +1,3 @@
-/*
-Template Name: Salimov - Horizontal Personal Portfolio
-Author: Codeefly
-Author URI: http://themeforest.net/user/Codeefly
-Description: Salimov - Horizontal Personal Portfolio
-Version: 1.0
-*/
-
 /*------------------------------------------------------------------
 [Table of contents]
       	+ General
@@ -553,7 +545,7 @@ header .mobile-menu {
 .home > div > div h1 > span > span:not(.intro),
 .home > div > div h1 > span {
   display: block;
-  overflow: hidden;
+  overflow: visible;
 }
 
 .home > div > div h1 > span {
