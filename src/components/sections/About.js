@@ -224,7 +224,7 @@ const About = () => {
             <li>
               <div className="animated-layer fade-in-up-animation fadeInUp wow">
                 <div className="experience">
-                  <h4>Web Developer Developer</h4>
+                  <h4>Web Developer</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
                     <span>03/2019 - 01/2021</span>
@@ -249,6 +249,23 @@ const About = () => {
                   <p>
                     <i className="fa-regular fa-building" />
                     <span>Sliders Agency</span>
+                  </p>
+                </div>
+              </div>
+            </li>
+            {/* TIMELINE ITEM ENDS */}
+            {/* TIMELINE ITEM STARTS */}
+            <li>
+              <div className="animated-layer fade-in-down-animation fadeInUp wow">
+                <div className="experience">
+                  <h4>Sr. Software engineer</h4>
+                  <p>
+                    <i className="fa-regular fa-clock" />
+                    <span>12/2023 - Present</span>
+                  </p>
+                  <p>
+                    <i className="fa-regular fa-building" />
+                    <span>Lean Business Services</span>
                   </p>
                 </div>
               </div>
