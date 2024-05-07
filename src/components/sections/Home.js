@@ -11,7 +11,7 @@ const Home = () => {
             </span>
             <span className="position-relative">
               <span className="home-dec animated-layer">
-                A Seinor Front-end Developer with 5 years experience
+                Sr. Software engineer
               </span>
             </span>
           </h1>
