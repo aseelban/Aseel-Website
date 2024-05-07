@@ -62,7 +62,7 @@ const About = () => {
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Address :</span>
-                    <span>Saudi Arabia, Jeddah</span>
+                    <span>Saudi Arabia, Riyadh</span>
                   </span>
                 </span>
               </li>
