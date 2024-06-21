@@ -149,9 +149,6 @@ const About = () => {
             {/* SKILL ITEM ENDS */}
           </div>
           <div>
-            {/* SKILL ITEM ENDS */}
-            </div>
-            <div>
             {/* SKILL ITEM STARTS */}
             <div className="animated-layer fade-in-down-animation fadeInLeft wow">
               <span>
