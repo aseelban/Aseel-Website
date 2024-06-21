@@ -149,22 +149,15 @@ const About = () => {
             {/* SKILL ITEM ENDS */}
           </div>
           <div>
-            {/* SKILL ITEM STARTS */}
-            <div className="animated-layer fade-in-down-animation fadeInLeft wow">
-              <span>
-                <i className="devicon-php-plain" />
-              </span>
-              <h4>PHP/NodeJS</h4>
-            </div>
             {/* SKILL ITEM ENDS */}
             </div>
             <div>
             {/* SKILL ITEM STARTS */}
             <div className="animated-layer fade-in-down-animation fadeInLeft wow">
               <span>
-                <i className="devicon-materialui-plain" />
+                <i className="devicon-php-plain" />
               </span>
-              <h4>MUI/Ant/Bootstrap</h4>
+              <h4>PHP/NodeJS</h4>
             </div>
             <div className="animated-layer fade-in-up-animation fadeInRight wow">
               <span>
