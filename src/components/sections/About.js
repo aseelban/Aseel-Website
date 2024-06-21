@@ -144,7 +144,7 @@ const About = () => {
               <span>
                 <i className="devicon-wordpress-plain" />
               </span>
-              <h4>WordPress/Codex</h4>
+              <h4>WordPress</h4>
             </div>
             {/* SKILL ITEM ENDS */}
           </div>
@@ -154,13 +154,7 @@ const About = () => {
               <span>
                 <i className="devicon-php-plain" />
               </span>
-              <h4>Basic PHP/NodeJS</h4>
-            </div>
-            <div className="animated-layer fade-in-up-animation fadeInRight wow">
-              <span>
-                <i className="devicon-docker-plain" />
-              </span>
-              <h4>cPanel/Website migration</h4>
+              <h4>PHP/NodeJS</h4>
             </div>
             {/* SKILL ITEM ENDS */}
             </div>
@@ -170,13 +164,13 @@ const About = () => {
               <span>
                 <i className="devicon-materialui-plain" />
               </span>
-              <h4>MUI/Bootstrap</h4>
+              <h4>MUI/Ant/Bootstrap</h4>
             </div>
             <div className="animated-layer fade-in-up-animation fadeInRight wow">
               <span>
                 <i className="devicon-github-original" />
               </span>
-              <h4>GitHub</h4>
+              <h4>Git</h4>
             </div>
             {/* SKILL ITEM ENDS */}
             </div>
