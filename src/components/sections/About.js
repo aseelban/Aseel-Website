@@ -36,7 +36,7 @@ const About = () => {
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Age :</span>
-                    <span>28 Years</span>
+                    <span>30 Years</span>
                   </span>
                 </span>
               </li>
